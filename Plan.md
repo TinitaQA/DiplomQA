@@ -118,9 +118,9 @@
 - тестрирование локализации (все элементы в приложении переведены на соответствующий язык, тексты 
 зависят от языка в системных настройках, корректное отображение времени в зависимости от часового пояса).
 
-  2.3 [Чек-лист](https://github.com/TinitaQA/DiplomQA/blob/master/Check.xls.numbers)
+  2.3 [Чек-лист](https://github.com/TinitaQA/DiplomQA/blob/master/Check.xlsx)
 
-  2.4 [Тест-кейсы](https://github.com/TinitaQA/DiplomQA/blob/master/Cases.xls.numbers)
+  2.4 [Тест-кейсы](https://github.com/TinitaQA/DiplomQA/blob/master/Cases.xlsx)
 
 ### **Автоматизация проверки приложения**.
 
